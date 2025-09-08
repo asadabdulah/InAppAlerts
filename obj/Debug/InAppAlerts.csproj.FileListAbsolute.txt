@@ -1,0 +1,17 @@
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\bin\Debug\InAppAlerts.exe.config
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\bin\Debug\InAppAlerts.exe
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\bin\Debug\InAppAlerts.pdb
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\bin\Debug\System.ValueTuple.dll
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\obj\Debug\InAppAlerts.csproj.AssemblyReference.cache
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\obj\Debug\InAppAlerts.csproj.SuggestedBindingRedirects.cache
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\obj\Debug\InAppAlerts.exe.config
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\obj\Debug\InAppAlerts.AlertForm.resources
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\obj\Debug\InAppAlerts.Form1.resources
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\obj\Debug\InAppAlerts.Properties.Resources.resources
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\obj\Debug\InAppAlerts.csproj.GenerateResource.cache
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\obj\Debug\InAppAlerts.csproj.CoreCompileInputs.cache
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\obj\Debug\InAppAle.5E5C378B.Up2Date
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\obj\Debug\InAppAlerts.exe
+C:\Users\asad.abdullah\source\repos\InAppAlerts\InAppAlerts\obj\Debug\InAppAlerts.pdb
